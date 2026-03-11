@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CachedManifest</key>
+	<dict>
+		<key>manifestData</key>
+		<data>
+		eyJkZXBlbmRlbmNpZXMiOltdLCJkaXNwbGF5TmFtZSI6IkFsZ29WaXNpb24i
+		LCJwYWNrYWdlS2luZCI6eyJyb290Ijp7fX0sInBsYXRmb3JtcyI6W3sib3B0
+		aW9ucyI6W10sInBsYXRmb3JtTmFtZSI6ImlvcyIsInZlcnNpb24iOiIxNi4w
+		In1dLCJwcm9kdWN0cyI6W3sibmFtZSI6IkFsZ29WaXNpb24iLCJzZXR0aW5n
+		cyI6W3siYnVuZGxlSWRlbnRpZmllciI6WyJnZXUuY3NlLmlvcy5BbGdvVmlz
+		aW9uIl19LHsiZGlzcGxheVZlcnNpb24iOlsiMS4wIl19LHsiYnVuZGxlVmVy
+		c2lvbiI6WyIxIl19LHsiaU9TQXBwSW5mbyI6W3siYWNjZW50Q29sb3IiOnsi
+		cHJlc2V0Q29sb3IiOnsicHJlc2V0Q29sb3IiOnsicmF3VmFsdWUiOiJpbmRp
+		Z28ifX19LCJhcHBDYXRlZ29yeSI6eyJyYXdWYWx1ZSI6InB1YmxpYy5hcHAt
+		Y2F0ZWdvcnkuZWR1Y2F0aW9uIn0sImFwcEljb24iOnsicGxhY2Vob2xkZXIi
+		OnsiaWNvbiI6eyJyYXdWYWx1ZSI6Im9wZW5Cb29rIn19fSwiY2FwYWJpbGl0
+		aWVzIjpbXSwic3VwcG9ydGVkRGV2aWNlRmFtaWxpZXMiOlsicGFkIiwicGhv
+		bmUiXSwic3VwcG9ydGVkSW50ZXJmYWNlT3JpZW50YXRpb25zIjpbeyJwb3J0
+		cmFpdCI6e319LHsibGFuZHNjYXBlUmlnaHQiOnt9fSx7ImxhbmRzY2FwZUxl
+		ZnQiOnt9fSx7InBvcnRyYWl0VXBzaWRlRG93biI6eyJjb25kaXRpb24iOnsi
+		ZGV2aWNlRmFtaWxpZXMiOlsicGFkIl19fX1dfV19XSwidGFyZ2V0cyI6WyJB
+		cHBNb2R1bGUiXSwidHlwZSI6eyJleGVjdXRhYmxlIjpudWxsfX1dLCJzd2lm
+		dExhbmd1YWdlVmVyc2lvbnMiOlsiNiJdLCJ0YXJnZXRNYXAiOnsiQXBwTW9k
+		dWxlIjp7ImRlcGVuZGVuY2llcyI6W10sImV4Y2x1ZGUiOltdLCJuYW1lIjoi
+		QXBwTW9kdWxlIiwicGFja2FnZUFjY2VzcyI6dHJ1ZSwicGF0aCI6Ii4iLCJy
+		ZXNvdXJjZXMiOltdLCJzZXR0aW5ncyI6W10sInR5cGUiOiJleGVjdXRhYmxl
+		In19LCJ0YXJnZXRzIjpbeyJkZXBlbmRlbmNpZXMiOltdLCJleGNsdWRlIjpb
+		XSwibmFtZSI6IkFwcE1vZHVsZSIsInBhY2thZ2VBY2Nlc3MiOnRydWUsInBh
+		dGgiOiIuIiwicmVzb3VyY2VzIjpbXSwic2V0dGluZ3MiOltdLCJ0eXBlIjoi
+		ZXhlY3V0YWJsZSJ9XSwidG9vbHNWZXJzaW9uIjp7Il92ZXJzaW9uIjoiNi4w
+		LjAifX0=
+		</data>
+		<key>manifestHash</key>
+		<data>
+		Zya5hmcieadgyD58GOMWDqgX0zHr7A4T9ySkSGTLpdc=
+		</data>
+		<key>schemaVersion</key>
+		<integer>4</integer>
+		<key>swiftPMVersionString</key>
+		<string>6.0.2-dev</string>
+	</dict>
+</dict>
+</plist>
