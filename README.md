@@ -42,21 +42,11 @@ Core goals:
 
 ## Screenshots
 
-### Home Interface
-
-![Home Screen](images/home.png)
-
----
-
-### Algorithm Visualization
-
-![Visualization](images/visualization.png)
-
----
-
-### Learning Section
-
-![Learning](images/learn.png)
+<p align="center">
+  <img src="images/home.png" width="30%" />
+  <img src="images/visualization.png" width="30%" />
+  <img src="images/learn.png" width="30%" />
+</p>
 
 ---
 
@@ -94,9 +84,9 @@ Main components:
 
 ## Installation
 
-Clone the repository.
-git clone https://github.com/
-Adi-1515/AlgoVision.git
+Clone the repository:
+
+git clone https://github.com/Adi-1515/AlgoVision.git
 
 
 Navigate to the project.
