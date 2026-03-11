@@ -51,17 +51,18 @@ Core goals:
 ---
 
 ## Project Structure
+
 AlgoVision
-|│
-|├── AlgoVision.swiftpm
-|│ ├── Package.swift
-|│ ├── VisionAlgoApp.swift
-|│ ├── HomeView.swift
-|│ ├── AlgoPattern.swift
-|│ └── Views
-|│
-|├── README.md
-|└── LICENSE
+│
+├── AlgoVision.swiftpm
+│ ├── Package.swift
+│ ├── VisionAlgoApp.swift
+│ ├── HomeView.swift
+│ ├── AlgoPattern.swift
+│ └── Views/
+│
+├── README.md
+└── LICENSE
 
 Main components:
 
@@ -91,14 +92,6 @@ Main components:
 
 ---
 
-## Running the Project
-
-1. Open the project in **Xcode** or **Swift Playgrounds**
-2. Build the project
-3. Run the application
-
----
-
 ## Educational Purpose
 
 AlgoVision is built as a **learning tool for computer science students**, helping bridge the gap between theoretical algorithms and their actual execution.
@@ -121,11 +114,13 @@ It focuses on visual intuition rather than purely textual explanations.
 
 Contributions that improve visualization quality, UI design, or algorithm coverage are welcome.
 
-Typical workflow:
-fork repository
-create feature branch
-commit changes
-submit pull request
+### Typical Workflow
+
+1. Fork the repository
+2. Create a new feature branch
+3. Commit your changes
+4. Push the branch to your fork
+5. Open a Pull Request
 
 ---
 
