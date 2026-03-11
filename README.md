@@ -104,7 +104,7 @@ These views contain the primary **visualization logic, state management, and use
 
 1. Clone the repository:
 ```bash
-*git clone https://github.com/Adi-1515/AlgoVision.git*
+git clone https://github.com/Adi-1515/AlgoVision.git
 ```
 3. Navigate to the project.
 4. Open in Xcode or Swift Playgrounds.
