@@ -66,6 +66,11 @@ AlgoVision
 │       ├── InteractiveTwoPointerView.swift
 │       └── PatternDetailView.swift
 │
+├── images
+│   ├── home.png
+│   ├── learn.png
+│   └── visualization.png
+│ 
 ├── README.md
 └── LICENSE
 ```
@@ -106,10 +111,10 @@ These views contain the primary **visualization logic, state management, and use
 ```bash
 git clone https://github.com/Adi-1515/AlgoVision.git
 ```
-3. Navigate to the project.
-4. Open in Xcode or Swift Playgrounds.
-5. Choose iPhone or iPad simulator.
-6. Finally build and run the project.
+2. Navigate to the project.
+3. Open in Xcode or Swift Playgrounds.
+4. Choose iPhone or iPad simulator.
+5. Finally build and run the project.
 
 ---
 
@@ -147,6 +152,6 @@ Contributions that improve visualization quality, UI design, or algorithm covera
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
-See the `LICENSE` file for details.
+See the [LICENSE](LICENSE) file for details.
