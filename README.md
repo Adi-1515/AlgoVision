@@ -52,7 +52,7 @@ Core goals:
 
 ## Project Structure
 ```
-AlgoVision
+AlgoVision-SSC_app
 │
 ├── AlgoVision.swiftpm
 │   ├── Package.swift
@@ -109,7 +109,7 @@ These views contain the primary **visualization logic, state management, and use
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Adi-1515/AlgoVision.git
+git clone https://github.com/Adi-1515/AlgoVision-SSC_app.git
 ```
 2. Navigate to the project.
 3. Open in Xcode or Swift Playgrounds.
