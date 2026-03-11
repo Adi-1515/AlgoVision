@@ -52,17 +52,16 @@ Core goals:
 
 ## Project Structure
 AlgoVision
-│
-├── AlgoVision.swiftpm
-│ ├── Package.swift
-│ ├── VisionAlgoApp.swift
-│ ├── HomeView.swift
-│ ├── AlgoPattern.swift
-│ └── Views
-│
-├── README.md
-└── LICENSE
-
+|│
+|├── AlgoVision.swiftpm
+|│ ├── Package.swift
+|│ ├── VisionAlgoApp.swift
+|│ ├── HomeView.swift
+|│ ├── AlgoPattern.swift
+|│ └── Views
+|│
+|├── README.md
+|└── LICENSE
 
 Main components:
 
@@ -84,16 +83,11 @@ Main components:
 
 ## Installation
 
-Clone the repository:
-
-git clone https://github.com/Adi-1515/AlgoVision.git
-
-
-Navigate to the project.
-cd AlgoVision
-
-
-Open in Xcode or Swift Playgrounds.
+1. Clone the repository: git clone https://github.com/Adi-1515/AlgoVision.git
+2. Navigate to the project.
+3. Open in Xcode or Swift Playgrounds.
+4. Choose iPhone or iPad simulator.
+5. Finally build and run the project.
 
 ---
 
@@ -128,12 +122,10 @@ It focuses on visual intuition rather than purely textual explanations.
 Contributions that improve visualization quality, UI design, or algorithm coverage are welcome.
 
 Typical workflow:
-
 fork repository
 create feature branch
 commit changes
 submit pull request
-
 
 ---
 
