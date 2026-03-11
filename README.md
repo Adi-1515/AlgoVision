@@ -51,7 +51,7 @@ Core goals:
 ---
 
 ## Project Structure
-
+```
 AlgoVision
 │
 ├── AlgoVision.swiftpm
@@ -63,6 +63,7 @@ AlgoVision
 │
 ├── README.md
 └── LICENSE
+```
 
 Main components:
 
@@ -73,18 +74,18 @@ Main components:
 
 ---
 
-## Technologies Used
+## Technology Stack
 
-- Swift
-- SwiftUI
-- Swift Package Manager
-- Xcode / Swift Playgrounds
+- **Swift**
+- **SwiftUI**
+- **Swift Package Manager**
+- **Xcode / Swift Playgrounds**
 
 ---
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/Adi-1515/AlgoVision.git
+1. Clone the repository: *git clone https://github.com/Adi-1515/AlgoVision.git*
 2. Navigate to the project.
 3. Open in Xcode or Swift Playgrounds.
 4. Choose iPhone or iPad simulator.
