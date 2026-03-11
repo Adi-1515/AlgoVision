@@ -55,22 +55,39 @@ Core goals:
 AlgoVision
 │
 ├── AlgoVision.swiftpm
-│ ├── Package.swift
-│ ├── VisionAlgoApp.swift
-│ ├── HomeView.swift
-│ ├── AlgoPattern.swift
-│ └── Views/
+│   ├── Package.swift
+│   ├── VisionAlgoApp.swift
+│   ├── HomeView.swift
+│   ├── AlgoPattern.swift
+│   └── Views
+│       ├── InteractiveBFSView.swift
+│       ├── InteractiveBinarySearchView.swift
+│       ├── InteractiveSlidingWindowView.swift
+│       ├── InteractiveTwoPointerView.swift
+│       └── PatternDetailView.swift
 │
 ├── README.md
 └── LICENSE
 ```
 
-Main components:
+### Main Components
 
-- **VisionAlgoApp.swift** – Application entry point
-- **HomeView.swift** – Main UI navigation
-- **AlgoPattern.swift** – Algorithm pattern logic
-- **Views/** – Visualization and UI components
+- **VisionAlgoApp.swift** — Application entry point that initializes the SwiftUI app lifecycle.
+- **HomeView.swift** — Main navigation interface for accessing algorithm modules and visualizations.
+- **AlgoPattern.swift** — Core data model describing algorithm patterns and metadata used by the UI.
+- **Views/** — SwiftUI views implementing algorithm visualizations, UI rendering, state handling, and interaction logic.
+
+#### Views Directory
+```
+Views
+│
+├── InteractiveBFSView.swift
+├── InteractiveBinarySearchView.swift
+├── InteractiveSlidingWindowView.swift
+├── InteractiveTwoPointerView.swift
+└── PatternDetailView.swift
+```
+These views contain the primary **visualization logic, state management, and user interaction behavior** for the application.
 
 ---
 
@@ -85,11 +102,14 @@ Main components:
 
 ## Installation
 
-1. Clone the repository: *git clone https://github.com/Adi-1515/AlgoVision.git*
-2. Navigate to the project.
-3. Open in Xcode or Swift Playgrounds.
-4. Choose iPhone or iPad simulator.
-5. Finally build and run the project.
+1. Clone the repository:
+```bash
+*git clone https://github.com/Adi-1515/AlgoVision.git*
+```
+3. Navigate to the project.
+4. Open in Xcode or Swift Playgrounds.
+5. Choose iPhone or iPad simulator.
+6. Finally build and run the project.
 
 ---
 
